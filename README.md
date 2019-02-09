@@ -1,9 +1,9 @@
 # expo-cropping-example
 Image Cropping Example using Expo without detach
 
-<div style="display: block; text-align: center">
+<p align="center" style="display: block; text-align: center">
   <img width="250px" src="https://i.gyazo.com/00065f1be13085673a61fd3c5f60a2a7.gif" />
-</div>
+</p>
 
 ## How to run
 ```
