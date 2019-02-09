@@ -1,16 +1,7 @@
 # expo-cropping-example
-Image Cropping Example using Expo.
+Image Cropping Example using Expo without detach
 
-## Feature
-- zoom/pinch
-- moving position
-- cropping image using ImageManipulator
-
-## Screenshots
-
-![img](https://i.gyazo.com/0c06f69a48ef33070ce11e23418c9691.png)
-![img](https://i.gyazo.com/0b44983ec6bbb20cd7183d50cb13a2a4.png)
-![img](https://i.gyazo.com/642b788d38d05db06c6fddb43c8f672d.png)
+![img](https://i.gyazo.com/00065f1be13085673a61fd3c5f60a2a7.gif)
 
 ## How to run
 ```
