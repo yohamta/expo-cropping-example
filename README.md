@@ -4,6 +4,7 @@ Image Cropping Example using Expo.
 ## Feature
 - zoom/pinch
 - moving position
+- cropping image using ImageManipulator
 
 ## Screenshots
 
