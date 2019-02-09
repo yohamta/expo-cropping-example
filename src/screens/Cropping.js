@@ -37,13 +37,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'rgba(0,0,0, 0.1)',
   },
-  save: {
-    marginRight: 30,
-  },
-  cropAreaForDebug: {
-    position: 'absolute',
-    backgroundColor: 'rgba(1,0,0,0.9)',
-  },
   svg: {
     position: 'absolute',
     left: 0,
