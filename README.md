@@ -1,7 +1,9 @@
 # expo-cropping-example
 Image Cropping Example using Expo without detach
 
-![img](https://i.gyazo.com/00065f1be13085673a61fd3c5f60a2a7.gif)
+<div style="text-align: center;">
+  <img width="250" src="https://i.gyazo.com/00065f1be13085673a61fd3c5f60a2a7.gif" />
+</div>
 
 ## How to run
 ```
