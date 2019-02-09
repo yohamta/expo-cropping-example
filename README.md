@@ -1,6 +1,10 @@
 # expo-cropping-example
 Image Cropping Example using Expo.
 
+## Feature
+- zoom/pinch
+- moving position
+
 ## Screenshots
 
 ![img](https://i.gyazo.com/0c06f69a48ef33070ce11e23418c9691.png)
