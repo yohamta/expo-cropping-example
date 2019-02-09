@@ -1,7 +1,7 @@
 # expo-cropping-example
-Image Cropping Example using Expo
+Image Cropping Example using Expo.
 
-## ScreenShots
+## Screenshots
 
 ![img](https://i.gyazo.com/0c06f69a48ef33070ce11e23418c9691.png)
 ![img](https://i.gyazo.com/0b44983ec6bbb20cd7183d50cb13a2a4.png)
